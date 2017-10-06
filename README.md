@@ -4,7 +4,7 @@
 
 ## Overview ##
 
-* Version **1.0.0**
+* Version **1.1.0**
 * Combines a tiny [Alpine Linux](https://www.alpinelinux.org/) os with a [tini](https://github.com/krallin/tini) init process
 * Protects from [*zombie processes* and ensures *default signal handlers* work](https://github.com/krallin/tini#why-tini)
 
