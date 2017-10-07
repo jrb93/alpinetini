@@ -8,6 +8,15 @@
 * Combines a tiny [Alpine Linux](https://www.alpinelinux.org/) os with a [tini](https://github.com/krallin/tini) init process
 * Protects from [*zombie processes* and ensures *default signal handlers* work](https://github.com/krallin/tini#why-tini)
 
+## Supported tags##
+* 3.1 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.1)
+* 3.2 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.2)
+* 3.3 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.3)
+* 3.4 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.4)
+* 3.5 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.5)
+* 3.6, latest [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.6)
+* edge [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/edge)
+
 ### How to use ###
 
 To use this as a base for another Docker image simply create a new Dockerfile and enter:
