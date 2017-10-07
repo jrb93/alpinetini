@@ -1,6 +1,6 @@
 # Alpinetini-base #
 
-[![](https://images.microbadger.com/badges/image/jrb93/alpinetini-base.svg)](https://microbadger.com/images/jrb93/alpinetini-base "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.6.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/jrb93/alpinetini-base.svg)](https://microbadger.com/images/jrb93/alpinetini-base "Get your own image badge on microbadger.com")
 `alpinetini-base` is a base image for running [tini](https://github.com/krallin/tini) a tiny init process with [Alpine Linux](https://www.alpinelinux.org/) on [Docker](https://www.docker.com).
 
 ## Overview ##
@@ -13,13 +13,13 @@
 
 ## Supported tags ##
 
-* 3.1 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.1)
-* 3.2 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.2)
-* 3.3 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.3)
-* 3.4 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.4)
-* 3.5 [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.5)
-* 3.6, latest [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.6)
-* edge [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/edge)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.1.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.1/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.1)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.2.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.2/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.2)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.3.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.3/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.3)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.4.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.4/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.4)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.5.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.5/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.5)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:3.6.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com"), [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:latest.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/3.6/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/3.6)
+* [![](https://images.microbadger.com/badges/version/jrb93/alpinetini-base:edge.svg)](https://microbadger.com/images/jrb93/alpinetini-base:3.6 "Get your own version badge on microbadger.com") [(versions/edge/Dockerfile)](https://github.com/jrb93/alpinetini-base/tree/master/versions/edge)
 
 ### How to use ###
 
